@@ -13,7 +13,7 @@
 git clone https://github.com/Cloud-Dark/pop-up-gift-card-happy-bhirtday
 2. Replace File img.jpeg sesuai file yang anda butuhkan
 3. Replace File music.mp3 Sesuai yang kalian inginkan
-4. Edit Text in Html
+4. Edit file config.json sesuai keinginan anda
 5. Done
     ![enter image description here](https://i.ibb.co/zG0RX3g/image.png)
 ## Sepecial Thanks For
